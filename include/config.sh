@@ -28,7 +28,7 @@ depends_prefix=/usr/local
 web_root_dir=/data/www/default
 
 #Download root URL
-download_root_url="http://file.slmp.sh/"
+download_root_url="https://file.slmp.sh/"
 
 #parallel compile option,1:enable,0:disable
 parallel_compile=1
