@@ -84,10 +84,10 @@ set_hint ${kodexplorer_filename} "kodexplorer-${kod_version}"
 
 #apr
 apr_filename="apr-1.7.0"
-apr_filename_url="http://ftp.jaist.ac.jp/pub/apache//apr/apr-1.7.0.tar.gz"
+apr_filename_url="${download_root_url}//apr/apr-1.7.0.tar.gz"
 #apr-util
 apr_util_filename="apr-util-1.6.1"
-apr_util_filename_url="http://ftp.jaist.ac.jp/pub/apache//apr/apr-util-1.6.1.tar.gz"
+apr_util_filename_url="${download_root_url}//apr/apr-util-1.6.1.tar.gz"
 #mod_wsgi
 mod_wsgi_filename="mod_wsgi-4.9.0"
 mod_wsgi_filename_url="https://github.com/GrahamDumpleton/mod_wsgi/archive/refs/tags/4.9.0.tar.gz"
